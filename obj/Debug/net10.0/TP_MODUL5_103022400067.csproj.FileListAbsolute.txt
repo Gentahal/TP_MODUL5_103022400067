@@ -1,0 +1,15 @@
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/bin/Debug/net10.0/TP_MODUL5_103022400067
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/bin/Debug/net10.0/TP_MODUL5_103022400067.deps.json
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/bin/Debug/net10.0/TP_MODUL5_103022400067.runtimeconfig.json
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/bin/Debug/net10.0/TP_MODUL5_103022400067.dll
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/bin/Debug/net10.0/TP_MODUL5_103022400067.pdb
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.AssemblyInfoInputs.cache
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.AssemblyInfo.cs
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.csproj.CoreCompileInputs.cache
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.sourcelink.json
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.dll
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/refint/TP_MODUL5_103022400067.dll
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.pdb
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/TP_MODUL5_103022400067.genruntimeconfig.cache
+/Users/gentahalilintar/Documents/KPL/TP_MODUL5_103022400067/obj/Debug/net10.0/ref/TP_MODUL5_103022400067.dll
